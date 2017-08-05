@@ -59,6 +59,9 @@
     $ cd ~/path/to/your/nodeapp/
     $ node app.js
     ```
-- In browser type <YOUR DOMAIN NAME>
+- In browser type 
+    ```sh
+     <YOUR DOMAIN NAME>
+    ```
  
  ## That's it, enjoy!
